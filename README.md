@@ -1,6 +1,6 @@
 ### *Hi, my name is Edgar*!
 #### *FullStack Developer  & Student*
-### *Currently this page is updating, please stay alert!*
+### *This page is under maintenance, please stay alert for updates!!*
 ![FullStack Developer  & Student](https://images.unsplash.com/photo-1560529177-261a781ad3b3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=hello-i-m-nik-v8pL84kvTTc-unsplash.jpg)
 *I'm full of energy and I want to continue learning!*
 
